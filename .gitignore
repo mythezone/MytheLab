@@ -18,3 +18,5 @@ venv/
 # Ignore PySide6 generated files
 ui_*.py
 moc_*.cpp
+
+docs/_build
