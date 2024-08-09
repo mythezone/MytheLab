@@ -7,3 +7,6 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+  sections:
+  - file: dev/logs/update.md
+  - glob: dev/logs/version*.md
