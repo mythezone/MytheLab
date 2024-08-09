@@ -20,3 +20,4 @@ ui_*.py
 moc_*.cpp
 
 docs/_build
+src/experimental
